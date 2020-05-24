@@ -9,13 +9,13 @@
 
 
 [p1]: https://leetcode.com/problems/two-sum/
-[p1sol]: 
+
 [p2]: https://leetcode.com/problems/add-two-numbers/
-[p2sol]: 
+
 [p3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
-[p3sol]: 
+
 [p4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
-[p4sol]: 
+
 [p5]: https://leetcode.com/problems/longest-palindromic-substring/
-[p5sol]: 
+
 
