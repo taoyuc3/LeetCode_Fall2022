@@ -7,7 +7,6 @@
 |4|[Median of Two Sorted Arrays][p4]                               |[C++][p4sol]     |Hard         |Binary Search
 |5|[Longest Palindromic Substring][p5]                             |[C++][p5sol]     |Medium       |Dynamic Programming
 
-
 [p1]: https://leetcode.com/problems/two-sum/
 
 [p2]: https://leetcode.com/problems/add-two-numbers/
@@ -17,5 +16,4 @@
 [p4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 [p5]: https://leetcode.com/problems/longest-palindromic-substring/
-
 
