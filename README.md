@@ -1,4 +1,4 @@
-## LeetCode (1458 Questions)
+## LeetCode (1/1458 Questions)
 | # | Problem | Solution | Difficulty | Related Topics/Ideas |
 |---| ------- | -------- | ---------- | -------------- |
 |1|[Two Sum][p1]                                                   |[C++][p1sol]     |Easy         |Hash Table
