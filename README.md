@@ -8,7 +8,7 @@
 |5|[Longest Palindromic Substring][p5]                             |[C++][p5sol]     |Medium       |Dynamic Programming
 
 [p1]: https://leetcode.com/problems/two-sum/
-
+[p1sol]: /Question-1%20Solution
 [p2]: https://leetcode.com/problems/add-two-numbers/
 
 [p3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
