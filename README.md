@@ -3,7 +3,7 @@
 |---| ------- | -------- | ---------- | -------------- |
 |1|[Two Sum][p1]                                                   |[Java][p1sol]    |Easy         |Hash Table
 |2|[Add Two Numbers][p2]                                           |[C++][p2sol]     |Medium       |Linked List
-|3|[Longest Substring Without Repeating Characters][p3]            |[C++][p3sol]     |Medium       |Sliding Window/Hash Table
+|3|[Longest Substring Without Repeating Characters][p3]            |[C++][p3sol]     |Medium       |Hash Table
 |4|[Median of Two Sorted Arrays][p4]                               |[C++][p4sol]     |Hard         |Binary Search
 |5|[Longest Palindromic Substring][p5]                             |[C++][p5sol]     |Medium       |Dynamic Programming
 
