@@ -12,6 +12,5 @@
 [p2]: https://leetcode.com/problems/add-two-numbers/
 [p3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [p4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
-
 [p5]: https://leetcode.com/problems/longest-palindromic-substring/
 
