@@ -6,6 +6,7 @@
 |3|[Longest Substring Without Repeating Characters][p3]            |[C++][p3sol]     |Medium       |Hash Table
 |4|[Median of Two Sorted Arrays][p4]                               |[C++][p4sol]     |Hard         |Binary Search
 |5|[Longest Palindromic Substring][p5]                             |[C++][p5sol]     |Medium       |Dynamic Programming
+|6|[ZigZag Conversion][p6]                                         |[C++][p6sol]     |Medium       |String
 
 [p1]: https://leetcode.com/problems/two-sum/
 [p1sol]: /1.%20Two%20Sum.md
@@ -13,4 +14,5 @@
 [p3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [p4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
 [p5]: https://leetcode.com/problems/longest-palindromic-substring/
+[p6]: https://leetcode.com/problems/zigzag-conversion/
 
