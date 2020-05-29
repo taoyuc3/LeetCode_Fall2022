@@ -7,7 +7,7 @@
 |4|[Median of Two Sorted Arrays][p4]                               |[C++][p4sol]     |Hard         |Binary Search
 |5|[Longest Palindromic Substring][p5]                             |[C++][p5sol]     |Medium       |Dynamic Programming
 |6|[ZigZag Conversion][p6]                                         |[C++][p6sol]     |Medium       |String
-|7|[][p7]                                         |[C++][p7sol]     |Medium       |String
+|7|[Reverse Integer][p7]                                           |[C++][p7sol]     |Easy         |Math
 
 [p1]: https://leetcode.com/problems/two-sum/
 [p1sol]: /1.%20Two%20Sum.md
@@ -16,5 +16,4 @@
 [p4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
 [p5]: https://leetcode.com/problems/longest-palindromic-substring/
 [p6]: https://leetcode.com/problems/zigzag-conversion/
-[p7]:
-
+[p7]: https://leetcode.com/problems/reverse-integer/
