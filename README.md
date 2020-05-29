@@ -7,6 +7,7 @@
 |4|[Median of Two Sorted Arrays][p4]                               |[C++][p4sol]     |Hard         |Binary Search
 |5|[Longest Palindromic Substring][p5]                             |[C++][p5sol]     |Medium       |Dynamic Programming
 |6|[ZigZag Conversion][p6]                                         |[C++][p6sol]     |Medium       |String
+|7|[][p7]                                         |[C++][p7sol]     |Medium       |String
 
 [p1]: https://leetcode.com/problems/two-sum/
 [p1sol]: /1.%20Two%20Sum.md
