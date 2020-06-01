@@ -9,7 +9,6 @@
 |6|[ZigZag Conversion][p6]                                         |[C++][p6sol]     |Medium       |String
 |7|[Reverse Integer][p7]                                           |[C++][p7sol]     |Easy         |Math
 
-
 [p1]: https://leetcode.com/problems/two-sum/
 [p2]: https://leetcode.com/problems/add-two-numbers/
 [p3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
