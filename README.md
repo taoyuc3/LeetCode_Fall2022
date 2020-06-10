@@ -17,4 +17,3 @@
 [p6]: https://leetcode.com/problems/zigzag-conversion/
 [p7]: https://leetcode.com/problems/reverse-integer/
 [p7sol]: /Solution/Q7_Reverse%20Integer.cpp
-
