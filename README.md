@@ -8,6 +8,8 @@
 |5|[Longest Palindromic Substring][p5]                             |[C++][p5sol]     |Medium       |Dynamic Programming
 |6|[ZigZag Conversion][p6]                                         |[C++][p6sol]     |Medium       |String
 |7|[Reverse Integer][p7]                                           |[C++][p7sol]     |Easy         |Math
+|8|[][p8]                                           |[C++][p8sol]     |         |
+
 
 [p1]: https://leetcode.com/problems/two-sum/
 [p2]: https://leetcode.com/problems/add-two-numbers/
