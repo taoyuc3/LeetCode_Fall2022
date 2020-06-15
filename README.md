@@ -10,6 +10,8 @@
 |7|[Reverse Integer][p7]                                           |[C++][p7sol]     |Easy         |Math
 |8|[][p8]                                           |[C++][p8sol]     |         |
 |9|[][p9]                                           |[C++][p9sol]     |         |
+|10|[][p10]                                           |[C++][p10sol]     |         |
+
 
 
 [p1]: https://leetcode.com/problems/two-sum/
