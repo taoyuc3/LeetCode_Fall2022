@@ -9,6 +9,7 @@
 |6|[ZigZag Conversion][p6]                                         |[C++][p6sol]     |Medium       |String
 |7|[Reverse Integer][p7]                                           |[C++][p7sol]     |Easy         |Math
 |8|[][p8]                                           |[C++][p8sol]     |         |
+|9|[][p9]                                           |[C++][p9sol]     |         |
 
 
 [p1]: https://leetcode.com/problems/two-sum/
