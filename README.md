@@ -12,7 +12,6 @@
 |9|[][p9]                                           |[C++][p9sol]     |         |
 |10|[][p10]                                           |[C++][p10sol]     |         |
 
-
 [p1]: https://leetcode.com/problems/two-sum/
 [p2]: https://leetcode.com/problems/add-two-numbers/
 [p3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
