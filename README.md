@@ -10,7 +10,7 @@
 |7|[Reverse Integer][p7]                                           |[C++][p7sol]     |Easy         |Math
 |8|[String to Integer(atoi)][p8]                                   |[C++][p8sol]     |Medium       |Math/String
 |9|[Palindrome Number][p9]                                         |[C++][p9sol]     |Easy         |Math
-|10|[Regular Expression Matching][p10]                             |[C++][p10sol]    |Hard         |Dynamic Programming Backtracking/String
+|10|[Regular Expression Matching][p10]                             |[C++][p10sol]    |Hard         |Dynamic Programming  Backtracking/String
 
 [p1]: https://leetcode.com/problems/two-sum/
 [p2]: https://leetcode.com/problems/add-two-numbers/
