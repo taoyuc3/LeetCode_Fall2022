@@ -1,4 +1,4 @@
-## LeetCode (1/1458 Questions)
+## LeetCode (1/1505 Questions)
 | # | Problem | Solution | Difficulty | Related Topics |
 |---| ------- | -------- | ---------- | -------------- |
 |1|[Two Sum][p1]                                                   |[C++][p1sol]     |Easy         |Hash Table
@@ -22,8 +22,6 @@
 [p8]: https://leetcode.com/problems/string-to-integer-atoi/
 [p9]: https://leetcode.com/problems/palindrome-number/
 [p10]:https://leetcode.com/problems/regular-expression-matching/
-
-
 
 
 [p7sol]: /Solution/Q7_Reverse%20Integer.cpp
