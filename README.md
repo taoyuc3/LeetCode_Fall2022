@@ -21,7 +21,21 @@
 [p7]: https://leetcode.com/problems/reverse-integer/
 [p8]: https://leetcode.com/problems/string-to-integer-atoi/
 [p9]: https://leetcode.com/problems/palindrome-number/
-[p10]:https://leetcode.com/problems/regular-expression-matching/
+[p10]: https://leetcode.com/problems/regular-expression-matching/
+[p11]: 
+[p12]: 
+[p13]: 
+[p14]:
+[p15]:
+[p16]:
+[p17]:
+[p18]:
+[p19]:
+[p20]:
+[p21]:
+[p22]:
+[p23]:
+
 
 
 [p7sol]: /Solution/Q7_Reverse%20Integer.cpp
