@@ -38,6 +38,7 @@
 [p24]:
 [p25]:
 [p26]:
+[p27]:
 
 
 [p7sol]: /Solution/Q7_Reverse%20Integer.cpp
