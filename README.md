@@ -28,8 +28,3 @@
 [p8]: https://leetcode.com/problems/string-to-integer-atoi/
 [p9]: https://leetcode.com/problems/palindrome-number/
 [p10]: https://leetcode.com/problems/regular-expression-matching/
-[p11]:
-[p12]:
-[p13]:
-[p14]:
-[p15]:
